@@ -1,0 +1,15 @@
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\bin\Debug\net6.0\WeatherClass.exe
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\bin\Debug\net6.0\WeatherClass.deps.json
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\bin\Debug\net6.0\WeatherClass.runtimeconfig.json
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\bin\Debug\net6.0\WeatherClass.dll
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\bin\Debug\net6.0\WeatherClass.pdb
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\obj\Debug\net6.0\WeatherClass.csproj.AssemblyReference.cache
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\obj\Debug\net6.0\WeatherClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\obj\Debug\net6.0\WeatherClass.AssemblyInfoInputs.cache
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\obj\Debug\net6.0\WeatherClass.AssemblyInfo.cs
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\obj\Debug\net6.0\WeatherClass.csproj.CoreCompileInputs.cache
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\obj\Debug\net6.0\WeatherClass.dll
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\obj\Debug\net6.0\refint\WeatherClass.dll
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\obj\Debug\net6.0\WeatherClass.pdb
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\obj\Debug\net6.0\WeatherClass.genruntimeconfig.cache
+C:\Users\talho\source\repos\WeatherClass\WeatherClass\obj\Debug\net6.0\ref\WeatherClass.dll
